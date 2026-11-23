@@ -24,5 +24,3 @@ description: "Contact information and professional links."
     <span>Based in Philadelphia</span>
   </div>
 </div>
-
-<p class="editing-note"><strong>Before publishing:</strong> Replace the sample email address and GitHub username with your own details. Only include a location you are comfortable sharing publicly.</p>
