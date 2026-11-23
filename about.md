@@ -1,11 +1,12 @@
 ---
+layout: default
 title: About Me
 nav_order: 2
 ---
 
 # About Me
 
-I’m a geographer and educator passionate about mapping, cities, and design.
+I am relatively new to GIS and mapping, with foundational experience using ArcGIS Pro. I am continuing to develop my skills in spatial analysis, map design, and the effective communication of geographic information.
 
-- **Current role:** Professor of Urban Spatial Design in Japan  
-- **Interests:** Web mapping, spatial analysis, and creative geography 
+- **Current role:** Student of Fundamentals of GIS in Philadelphia  
+- **Interests:** The use of web mapping and spatial analysis to solve real-world problems.
